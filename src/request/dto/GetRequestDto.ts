@@ -1,0 +1,3 @@
+type GetRequestDto = {
+    anonymID: string;
+}
